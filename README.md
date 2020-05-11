@@ -6,9 +6,10 @@ React-SSR-Starter is a starter project which supports server side rendering of r
 
 - [Features](#features)
 - [Install](#install)
-- [Usage](#usage)
 - [Prerequisites](#prerequisites)
+- [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
